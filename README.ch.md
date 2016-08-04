@@ -25,7 +25,7 @@ FGJ 2016 遊戲專案，詳細請見 [FGJ wiki](http://fgj.igda.jp/dokuwiki/doku
 
 * [黨](https://www.facebook.com/chuansiang.dang)
 * ray
-* 橘之介
+* [橘之介](https://www.facebook.com/profile.php?id=100000166043481)
 * 5a
 * [王思元](http://twsiyuan.com/)
 * 洪子凡 (Hubert)
