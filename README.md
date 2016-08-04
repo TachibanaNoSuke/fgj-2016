@@ -28,7 +28,7 @@ Drag the slide bar to change the size and position. Use the feature to solve the
 * [王思元](http://twsiyuan.com/)
 * 洪子凡 (Hubert)
 
-<img src="/Arts/gameshot/IMG_0379.JPG" alt="teammember" width="450px"/>
+<img src="/Arts/gameshot/IMG_0379.JPG" alt="teammember"/>
 
 ## Shot
 
